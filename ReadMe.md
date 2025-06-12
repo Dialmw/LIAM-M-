@@ -4,17 +4,17 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+LIAM+M+;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen bot+;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+LIAM+M+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<!-- Banner Image -->
+<!-- Custom Banner Image -->
 <p align="center">
-  <a href="(https://github.com/Dialmw/Gallery-/blob/main/Image%203.jpg)">
-    <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto" alt="Quantum Bot Banner">
+  <a href="https://github.com/Dialmw/LIAM-M-/blob/9a11be260fadb15e815ab125f9a564876647baca/Logo%201.jpeg?raw=true">
+    <img src="https://github.com/Dialmw/LIAM-M-/blob/9a11be260fadb15e815ab125f9a564876647baca/Logo%201.jpeg?raw=true" width="100%" height="auto" alt="LIAM M Banner">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
   </a>
   
   <a href="https://ibrahimadams.site/Deploy_button">
-    <img title="DEPLOY LIAM M BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <!-- Referral Code -->
 <p align="center">
- 
+  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
 </p>
 
 <!-- Glowing Footer -->
@@ -56,7 +56,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+LIAM+M+1st+Edition+by+Liam;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+LIAM+M+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
