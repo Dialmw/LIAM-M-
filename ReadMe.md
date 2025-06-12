@@ -13,7 +13,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/c07f3s.jpeg">
+  <a href="[https://files.catbox.moe/c07f3s.jpeg](https://github.com/Dialmw/Gallery-/blob/main/Image%203.jpg)">
     <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto" alt="Quantum Bot Banner">
   </a>
 </p>
@@ -47,7 +47,7 @@
 
 <!-- Referral Code -->
 <p align="center">
-  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
+ 
 </p>
 
 <!-- Glowing Footer -->
