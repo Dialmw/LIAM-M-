@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+LIAM+M+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+LIAM+M+;🔥+MORE+COMING ;💻+Made+by+Liam ;🚀+Next-Gen+;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+LIAM+M+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+LIAM+M+By+Liam ;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
